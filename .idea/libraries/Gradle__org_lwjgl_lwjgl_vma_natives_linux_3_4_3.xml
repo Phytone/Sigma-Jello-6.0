@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-vma:natives-linux:3.4.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl-vma" version="3.4.3" baseVersion="3.4.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vma/3.4.3/3a9a95d3e83f7fc49c6ed8d0e1c853b77662d90e/lwjgl-vma-3.4.3-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

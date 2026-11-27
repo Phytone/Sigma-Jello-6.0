@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.cdagaming:DiscordIPC:0.11.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.github.cdagaming" artifactId="DiscordIPC" version="0.11.3" baseVersion="0.11.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.cdagaming/DiscordIPC/0.11.3/720e06cba8eb7a75d7349d650ac5b6837bd25ee3/DiscordIPC-0.11.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

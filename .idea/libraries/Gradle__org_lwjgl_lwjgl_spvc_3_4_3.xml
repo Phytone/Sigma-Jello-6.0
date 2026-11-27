@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-spvc:3.4.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl-spvc" version="3.4.3" baseVersion="3.4.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-spvc/3.4.3/98e5b5ef5159100b26a169a9aed6c24e820e3eaa/lwjgl-spvc-3.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-message-api-v1:7.1.1+3e5b46335d" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-message-api-v1" version="7.1.1+3e5b46335d" baseVersion="7.1.1+3e5b46335d" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-message-api-v1/7.1.1+3e5b46335d/9e1637b77d425dda9349dcbad0257794a8259fe5/fabric-message-api-v1-7.1.1+3e5b46335d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-message-api-v1/7.1.1+3e5b46335d/a5e42ea1173050c3560417e62e144be728c9ed86/fabric-message-api-v1-7.1.1+3e5b46335d-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

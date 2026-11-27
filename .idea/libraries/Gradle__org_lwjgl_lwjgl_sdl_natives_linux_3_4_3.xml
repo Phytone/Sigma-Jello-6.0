@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-sdl:natives-linux:3.4.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl-sdl" version="3.4.3" baseVersion="3.4.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-sdl/3.4.3/6ed1b80b7c211a491612c70e43f27ba1f42cccd0/lwjgl-sdl-3.4.3-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

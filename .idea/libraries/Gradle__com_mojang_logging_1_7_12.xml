@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mojang:logging:1.7.12" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.mojang" artifactId="logging" version="1.7.12" baseVersion="1.7.12" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/logging/1.7.12/351cea64a5233361327d8d54c44277041beed97f/logging-1.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

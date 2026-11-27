@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: net.lenni0451:Reflect:1.6.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.lenni0451" artifactId="Reflect" version="1.6.1" baseVersion="1.6.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lenni0451/Reflect/1.6.1/44cdbfa618693d2e2e50b9f8b5fa22b13bd699a2/Reflect-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mojang:datafixerupper:10.0.21" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.mojang" artifactId="datafixerupper" version="10.0.21" baseVersion="10.0.21" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/10.0.21/b6b2ae770c02e0c1eb90f9985b151e9085a38d0b/datafixerupper-10.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

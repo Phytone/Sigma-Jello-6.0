@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "sigma6",
+  "version": "1.0",
+  "name": "Sigma Jello 6.0",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "/assets/icon/icon.ico",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.phytone.sigma6.client.Sigma6DataGenerator"
+    ],
+    "client": [
+      "com.phytone.sigma6.client.Sigma6Client"
+    ],
+    "main": [
+      "com.phytone.sigma6.Sigma6"
+    ]
+  },
+  "mixins": [
+    "sigma6.mixins.json",
+    {
+      "config": "sigma6.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "fabric-api": "*",
+    "minecraft": "26.3"
+  }
+}

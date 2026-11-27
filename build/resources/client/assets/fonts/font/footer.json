@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "fonts:jello-og.ttf",
+      "shift": [0, 0],
+      "size": 8.0,
+      "oversample": 2.0
+    }
+  ]
+}

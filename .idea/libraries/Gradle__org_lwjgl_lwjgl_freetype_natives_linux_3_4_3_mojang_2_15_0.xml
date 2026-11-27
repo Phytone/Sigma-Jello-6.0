@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-freetype:natives-linux:3.4.3-mojang-2.15.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl-freetype" version="3.4.3-mojang-2.15.0" baseVersion="3.4.3-mojang-2.15.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/f20ae220999240d484896d839694b02c2a655608/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

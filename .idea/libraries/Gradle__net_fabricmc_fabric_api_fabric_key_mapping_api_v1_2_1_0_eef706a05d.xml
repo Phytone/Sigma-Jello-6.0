@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-key-mapping-api-v1:2.1.0+eef706a05d" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-key-mapping-api-v1" version="2.1.0+eef706a05d" baseVersion="2.1.0+eef706a05d" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-key-mapping-api-v1/2.1.0+eef706a05d/5d0f521ed3493c08c8db4f8a2705945fe9008f46/fabric-key-mapping-api-v1-2.1.0+eef706a05d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-key-mapping-api-v1/2.1.0+eef706a05d/4c43a0d27cded691af1bfbe7df35773a83b4fd7d/fabric-key-mapping-api-v1-2.1.0+eef706a05d-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
